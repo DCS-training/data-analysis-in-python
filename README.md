@@ -22,14 +22,14 @@ This is an intermediate-level course. We will assume that you are already famili
 
 ## How to use these materials
 
-Throughout this course we will be using the [Noteable](https://noteable.edina.ac.uk/) platform to run Jupyter notebooks. This is a cloud-based computational notebook system that work on your browser from any device.
+Throughout this course we will be using the [Noteable](https://noteable.edina.ac.uk/) platform to run Jupyter notebooks. This is a cloud-based computational notebook system that runs in your browser from any device.
 
 ### Start Noteable
 1.  Open the following link in a new tab:  [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login).
 2.  Login with your EASE credentials.
 3.  Under 'Standard Notebook (Python 3)' click 'Start'
    
-### Download the files to Noteable.
+### Download the files to Noteable
 1.  From the Noteable home page, click on the '+GitRepo' button at the top right of the screen.
 2.  In the 'Git Repository URL' field copy the link to this GitHub repository, "https://github.com/DCS-training/data-analysis-in-python". Ignore all other fields.
 3.  Once filled in, click the 'clone' button. After a few moments, you will then see a new folder appear with the files.
