@@ -14,7 +14,7 @@ This two-class course will introduce you to working with structured (tabular) da
 - extracting summary statistics 
 - data visualisation 
 
-By the end of this course, you will be familiar with two key Python libraries used for data analysis: ``pandas`` (for working with dataframes), and ``matplotlib`` (for data visualisation). 
+By the end of this course, you will be familiar with two key Python libraries used for data analysis: ``pandas`` (for working with dataframes), and ``seaborn`` (for data visualisation). 
 
 We will work together on a sample dataset, but you are also welcome to bring your own. 
 
