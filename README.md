@@ -1,8 +1,8 @@
 # Introduction to data analysis in Python
 
-**Last updated**: November 2024
+**Last updated**: February 2026
 
-**Author**: Aislinn Keogh
+**Author**: Aislinn Keogh, Ponrawee Prasertsom 
 
 ## Welcome
 
